@@ -24,31 +24,31 @@ Construyendo proyectos reales mientras subo nivel.
 
 ## 🚀 Proyectos Destacados
 
-### 🔊 Real-time Voice Assistant
+### 🔊 Real-time Voice Transcriptor
 Sistema de reconocimiento de voz en tiempo real usando C++ + Whisper.cpp.
 - Streaming de audio
 - Voice Activity Detection
 - Procesamiento low-latency
-➡️ https://github.com/SitoSt/**(link repo)**
+➡️ https://github.com/SitoSt/Transcription_API
 
 ---
 
 ### 📸 OCR Backend
-Backend en C++/Python para detección automática de documentos.
-- Envío de frames en tiempo real
+Backend en Python para detección automática de Gestos.
+- Conversion de frames a landmarks con MediaPipe
+- Envio de los landmarks en streaming con WebSockets
 - Detección y análisis en servidor
 - Integración OpenCV
-➡️ https://github.com/SitoSt/**(link repo)**
+➡️ https://github.com/SitoSt/GestureDetection
 
 ---
 
 ### 🤖 Jota – Personal Assistant
 Asistente de escritorio con:
-- Rutinas automatizadas
 - TTS
 - Integración con macOS
 - Arquitectura modular
-➡️ https://github.com/SitoSt/**(link repo)**
+➡️ https://github.com/SitoSt/Jota
 
 ---
 
